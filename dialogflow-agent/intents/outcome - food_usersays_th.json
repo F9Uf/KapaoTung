@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1f19df99-fa70-4a83-857b-8c56319de311",
+    "data": [
+      {
+        "text": "ซื้อ",
+        "userDefined": false
+      },
+      {
+        "text": "อาหาร",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "180",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " บาท",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd553428-8144-4c92-a280-9a95033d95ae",
+    "data": [
+      {
+        "text": "ซื้อ",
+        "userDefined": false
+      },
+      {
+        "text": "อาหาร",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "บาท",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ee2f237-24a2-46e7-b5b2-8bc50c45f3be",
+    "data": [
+      {
+        "text": "ซื้อ",
+        "userDefined": false
+      },
+      {
+        "text": "ของกิน",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1,200",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "929987d6-f96b-409f-9772-a5daa1602278",
+    "data": [
+      {
+        "text": "กิน",
+        "userDefined": false
+      },
+      {
+        "text": "ข้าว",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "70.5",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " บาท",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b321b87e-4d95-4f26-9a5b-6a85082ac747",
+    "data": [
+      {
+        "text": "อาหาร",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "สี่สิบ",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "267369cf-0a00-4138-84d9-8d4a4bf81ced",
+    "data": [
+      {
+        "text": "ค่า",
+        "userDefined": false
+      },
+      {
+        "text": "ข้าว",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "120",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " บาท",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

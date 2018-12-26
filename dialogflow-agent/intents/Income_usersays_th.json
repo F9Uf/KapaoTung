@@ -1,0 +1,46 @@
+[
+  {
+    "id": "b1342a09-5565-4670-9605-f36010cd4853",
+    "data": [
+      {
+        "text": "จดเงินเข้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "593527f4-5483-48ee-adce-e642061e1f94",
+    "data": [
+      {
+        "text": "ได้รับเงิน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7881d1c-6350-405c-8053-49bf18ba0482",
+    "data": [
+      {
+        "text": "จดรายรับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3002dd5-5cf5-488a-98fc-73efca20ec60",
+    "data": [
+      {
+        "text": "บันทึกรายรับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

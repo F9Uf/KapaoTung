@@ -1,0 +1,132 @@
+[
+  {
+    "id": "5d96634a-3b7a-454c-be77-0c300c1dfaff",
+    "data": [
+      {
+        "text": "ค่าปากกา ",
+        "userDefined": false
+      },
+      {
+        "text": "10 บาท",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b1cd69b-3519-416c-9d60-adcbceb792bb",
+    "data": [
+      {
+        "text": "ลิคควิด",
+        "alias": "other",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "45.5",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " บาท",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07e2b1c6-5b76-422d-b723-5f062632827e",
+    "data": [
+      {
+        "text": "สมุด",
+        "alias": "other",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "สี่สิบ",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "บาท",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cff19fb0-2b8d-4ba6-96dc-cd43d158271e",
+    "data": [
+      {
+        "text": "ค่า",
+        "userDefined": false
+      },
+      {
+        "text": "ปากกา",
+        "alias": "other",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1,200",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aaa9dfed-520d-4d1d-99e9-5a54f23b3fc5",
+    "data": [
+      {
+        "text": "ซื้อ",
+        "userDefined": false
+      },
+      {
+        "text": "ดินสอ",
+        "alias": "other",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "120",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " บาท",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

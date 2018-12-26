@@ -1,0 +1,68 @@
+[
+  {
+    "id": "d8177a5f-45cc-426c-81b1-8b7aff95bddb",
+    "data": [
+      {
+        "text": "ใช้ยังไง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67c06611-7d13-42e2-ba71-3e738e6fdfca",
+    "data": [
+      {
+        "text": "ต้องการความช่วยเหลือ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9d2e571-3a6a-4520-b67e-ddc27197e54a",
+    "data": [
+      {
+        "text": "ช่วยข่อยแหน่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d8aa07f-a842-457c-9150-42fd019668d1",
+    "data": [
+      {
+        "text": "ช่วยด้วย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "002af610-6def-487b-9b33-07784bcd85a9",
+    "data": [
+      {
+        "text": "ช่วยเหลือ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "741e2d31-4cbd-4bfb-94da-7b45a74be65f",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

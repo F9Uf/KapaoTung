@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ff0d7188-4bfa-4782-87d3-3058e3ef2e70",
+    "data": [
+      {
+        "text": "เสียตัง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "786ddb6b-bf65-4886-9788-7f3acca94bb7",
+    "data": [
+      {
+        "text": "ซื้อของ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36b2be8d-2410-4c4c-aff0-c02e838938a0",
+    "data": [
+      {
+        "text": "จดเงินออก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e046733c-c76a-436c-be31-ca1f2c56e3fc",
+    "data": [
+      {
+        "text": "บันทึกรายจ่าย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eded8678-ddcc-4543-82db-0e70354c6540",
+    "data": [
+      {
+        "text": "จดรายจ่าย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

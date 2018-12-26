@@ -1,0 +1,134 @@
+[
+  {
+    "id": "42d55b28-606a-4bf1-b10a-addbe73f5249",
+    "data": [
+      {
+        "text": "มีเงิน",
+        "alias": "msg",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "780",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "บาท",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95ed3f72-d1d0-4eee-b885-f13de6414f3c",
+    "data": [
+      {
+        "text": "ถูกหวย",
+        "alias": "msg",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2,500",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " บาท",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c68baf3-acee-4f96-8020-a81063a2a213",
+    "data": [
+      {
+        "text": "แม่ให้",
+        "alias": "msg",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2,000",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28077a44-93ac-4b2d-a8d6-161a9f4b3d81",
+    "data": [
+      {
+        "text": "พ่อให้เงิน",
+        "alias": "msg",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ยี่สิบ",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c811c602-5b45-41e6-b762-c89633cd2b97",
+    "data": [
+      {
+        "text": "ได้รับเงิน",
+        "alias": "msg",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "250",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " บาท",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

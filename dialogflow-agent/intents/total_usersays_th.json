@@ -1,0 +1,68 @@
+[
+  {
+    "id": "4ab48536-dbff-423a-ae0e-75458add1dc1",
+    "data": [
+      {
+        "text": "คงเหลือ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a32f72f-09ec-4528-b31e-31173ad5c5ab",
+    "data": [
+      {
+        "text": "เงินที่มี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8d91f85-076a-4bfd-a92e-13167a4b9df0",
+    "data": [
+      {
+        "text": "เงินเก็บ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5995a5dc-372b-47f0-b7f0-dad21f1b9d5c",
+    "data": [
+      {
+        "text": "total",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab762af3-4c13-4de1-894e-e0f43c19dac0",
+    "data": [
+      {
+        "text": "เงินคงเหลือ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37a976df-8a46-413e-8f74-dca6ba20c447",
+    "data": [
+      {
+        "text": "เช็คยอด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

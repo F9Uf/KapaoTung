@@ -1,0 +1,27 @@
+{
+  "id": "c8280e6b-70e2-4f35-95c6-6e953e0bf403",
+  "name": "help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "1. บอกบอทว่าจะ \"บันทักรายจ่าย\" หรือ \"บันทึกรายรับ\"\n2. บอกรายการต่างๆ พร้อมจำนวนเงิน\n3. บอทจะบันทึกรายการต่างๆให้\n4. หรือบอกบอทว่า \"เงินคงเหลือ\" หรืออะไรทำนองนี้เพื่อดูเงินทั้งหมด"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

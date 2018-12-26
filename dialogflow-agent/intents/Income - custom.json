@@ -1,0 +1,68 @@
+{
+  "id": "90ade747-e9c7-4423-af08-a4552ad93722",
+  "parentId": "074ef2da-1afb-4d3b-acdf-2e66fa0fb876",
+  "rootParentId": "074ef2da-1afb-4d3b-acdf-2e66fa0fb876",
+  "name": "Income - custom",
+  "auto": true,
+  "contexts": [
+    "Income-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Income.Income-custom",
+      "affectedContexts": [
+        {
+          "name": "Income-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d251f16f-3874-4107-a341-1737f3d24727",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "value",
+          "value": "$value",
+          "prompts": [
+            {
+              "lang": "th",
+              "value": "กรอกจำนวนเงินด้วยจ้าา :)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "28003219-825f-4cf9-8fa6-520b16a9cac1",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "msg",
+          "value": "$msg",
+          "prompts": [
+            {
+              "lang": "th",
+              "value": "กรอกรายการด้วยจ้าา :)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "บันทึกรายรับ $value บาท เรียบร้อยยย~~~"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510944718,
+  "fallbackIntent": false,
+  "events": []
+}

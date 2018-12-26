@@ -1,0 +1,120 @@
+[
+  {
+    "id": "000cb6c2-3003-496e-9956-4d1172e39154",
+    "data": [
+      {
+        "text": "สองแถว",
+        "alias": "transport",
+        "meta": "@transport",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "สิบสอง",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "บาท",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ab9abef-4291-440e-b456-b368bc7014e9",
+    "data": [
+      {
+        "text": "ค่า",
+        "userDefined": false
+      },
+      {
+        "text": "เดินทาง",
+        "alias": "transport",
+        "meta": "@transport",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1,200",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83ad7458-f029-4235-a754-1ac0e6e24011",
+    "data": [
+      {
+        "text": "นั่ง",
+        "userDefined": false
+      },
+      {
+        "text": "รถ",
+        "alias": "transport",
+        "meta": "@transport",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "70",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "บาท",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df3a875f-bb72-46ca-93e6-06c40fd79e1f",
+    "data": [
+      {
+        "text": "ค่า",
+        "userDefined": false
+      },
+      {
+        "text": "รถเมล์",
+        "alias": "transport",
+        "meta": "@transport",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "13.5",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

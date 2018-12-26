@@ -1,0 +1,68 @@
+{
+  "id": "7d0a56a4-b33e-47d9-a708-3a98ecca1885",
+  "parentId": "f828a2ab-8543-4d88-b81f-36f571757143",
+  "rootParentId": "f828a2ab-8543-4d88-b81f-36f571757143",
+  "name": "outcome - shopping",
+  "auto": true,
+  "contexts": [
+    "outcome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "outcome.outcome-custom",
+      "affectedContexts": [
+        {
+          "name": "outcome-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dc8ab27b-7c73-4808-999d-54fecf91bacb",
+          "required": true,
+          "dataType": "@shopping",
+          "name": "shopping",
+          "value": "$shopping",
+          "prompts": [
+            {
+              "lang": "th",
+              "value": "กรอกรายการด้วยจ้าา :)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "00319db3-755d-4fd8-9325-75e667f1888d",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "value",
+          "value": "$value",
+          "prompts": [
+            {
+              "lang": "th",
+              "value": "กรอกราคาด้วยจ้าา :)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "บันทึกรายจ่าย shopping $value บาท"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510944718,
+  "fallbackIntent": false,
+  "events": []
+}

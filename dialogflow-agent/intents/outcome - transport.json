@@ -1,0 +1,68 @@
+{
+  "id": "3a4cebb6-e68f-46da-aa2a-7c2b8e7bad60",
+  "parentId": "f828a2ab-8543-4d88-b81f-36f571757143",
+  "rootParentId": "f828a2ab-8543-4d88-b81f-36f571757143",
+  "name": "outcome - transport",
+  "auto": true,
+  "contexts": [
+    "outcome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "outcome.outcome-custom",
+      "affectedContexts": [
+        {
+          "name": "outcome-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b32df400-9388-4c8e-b6d0-d1a38c8b656b",
+          "required": true,
+          "dataType": "@transport",
+          "name": "transport",
+          "value": "$transport",
+          "prompts": [
+            {
+              "lang": "th",
+              "value": "กรอกรายการด้วยจ้าา :)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "68349b69-c81c-40cc-8f57-a1507b650ff7",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "value",
+          "value": "$value",
+          "prompts": [
+            {
+              "lang": "th",
+              "value": "กรอกราคาด้วยจ้าา :)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "บันทึกรายจ่ายค่าเดินทาง $value บาท"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510944718,
+  "fallbackIntent": false,
+  "events": []
+}

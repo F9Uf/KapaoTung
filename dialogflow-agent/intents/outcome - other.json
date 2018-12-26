@@ -1,0 +1,70 @@
+{
+  "id": "ee262c35-d61d-419a-be1b-38bb9dfba342",
+  "parentId": "f828a2ab-8543-4d88-b81f-36f571757143",
+  "rootParentId": "f828a2ab-8543-4d88-b81f-36f571757143",
+  "name": "outcome - other",
+  "auto": true,
+  "contexts": [
+    "outcome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "outcome.outcome-custom",
+      "affectedContexts": [
+        {
+          "name": "outcome-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bb7805f2-c85c-4933-bbd6-d6a09ad6886b",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "value",
+          "value": "$value",
+          "prompts": [
+            {
+              "lang": "th",
+              "value": "กรอกรายการด้วยจ้าา :)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "44b05383-6b55-482a-9444-648a1a041409",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "other",
+          "value": "$other",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "d073cf95-5d12-4312-9773-a08c8daa40ed",
+          "dataType": "@sys.unit-currency",
+          "name": "unit-currency",
+          "value": "$unit-currency",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "บันทึกรายจ่ายอื่นๆ $value บาท"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510944718,
+  "fallbackIntent": false,
+  "events": []
+}

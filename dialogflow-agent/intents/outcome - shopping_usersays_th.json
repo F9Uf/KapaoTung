@@ -1,0 +1,101 @@
+[
+  {
+    "id": "b1b1bd45-30b8-4f02-9298-bbe87bf4d55b",
+    "data": [
+      {
+        "text": "ค่าหมวก ",
+        "userDefined": false
+      },
+      {
+        "text": "120",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c39880b8-aac6-47fb-b448-d7b1f24b1948",
+    "data": [
+      {
+        "text": "เสื้อผ้า",
+        "alias": "shopping",
+        "meta": "@shopping",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4,500.5",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff87eaa9-ca19-4a63-b17d-0f7fc9a154ec",
+    "data": [
+      {
+        "text": "ค่า",
+        "userDefined": false
+      },
+      {
+        "text": "เสื้อ",
+        "alias": "shopping",
+        "meta": "@shopping",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "พันสองร้อย",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa0c3879-2822-4173-9475-e2a0a79a9ad5",
+    "data": [
+      {
+        "text": "ซื้อ",
+        "userDefined": false
+      },
+      {
+        "text": "กางเกง",
+        "alias": "shopping",
+        "meta": "@shopping",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "120",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " บาท",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

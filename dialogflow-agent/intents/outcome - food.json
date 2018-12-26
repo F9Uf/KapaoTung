@@ -1,0 +1,68 @@
+{
+  "id": "9ad2c8c6-d218-4527-8aba-e9686fd95ae7",
+  "parentId": "f828a2ab-8543-4d88-b81f-36f571757143",
+  "rootParentId": "f828a2ab-8543-4d88-b81f-36f571757143",
+  "name": "outcome - food",
+  "auto": true,
+  "contexts": [
+    "outcome-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "outcome.outcome-custom",
+      "affectedContexts": [
+        {
+          "name": "outcome-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "75bdb170-9c9e-4b86-bb49-37caf52550fe",
+          "required": true,
+          "dataType": "@food",
+          "name": "food",
+          "value": "$food",
+          "prompts": [
+            {
+              "lang": "th",
+              "value": "กรอกรายการด้วยจ้าา :)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "eb2fc36a-c023-4e3c-9ff5-3605b916a485",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "value",
+          "value": "$value",
+          "prompts": [
+            {
+              "lang": "th",
+              "value": "กรอกจำนวนเงินด้วยจ้าา :)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "บันทึกรายจ่ายอาหาร $value บาทงั้บ ^^"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510944718,
+  "fallbackIntent": false,
+  "events": []
+}
