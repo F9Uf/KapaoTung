@@ -115,10 +115,10 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
   function checkTotal(agent) {
     if(userId) {
       return db.child(userId+'/total').once('value', snap => {
-        return agent.add('เธกเธตเน€เธเธดเธเธเธเน€เธซเธฅเธทเธญ '+(snap.val() || 0)+' เธเธฒเธ—เธเนเธฒเธฒ');
+        return agent.add('มีเงินคงเหลือ '+(snap.val() || 0)+' บาทจ้าา');
       });
     } else {
-        agent.add('เน€เธเนเธเธขเธญเธ”เน€เธเธดเธเธ—เธฒเธเธเธตเนเนเธกเนเนเธ”เนเธเธฐเธเนเธฐ');
+        agent.add('เช็คยอดเงินทางนี้ไม่ได้นะจ้ะ ><');
     }
   }
   
