@@ -1,5 +1,17 @@
 [
   {
+    "id": "fc746b59-f5e0-4e66-8b11-79816bf960bc",
+    "data": [
+      {
+        "text": "Hello, world",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
     "id": "17d91170-cee0-413b-ab65-20ce2b7dcc91",
     "data": [
       {

@@ -1,5 +1,5 @@
 {
-  "description": "",
+  "description": "กระเป๋าตุง - แชทบอท",
   "language": "th",
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
@@ -21,8 +21,11 @@
   "defaultTimezone": "Asia/Bangkok",
   "webhook": {
     "url": "https://us-central1-kapaotung-1d328.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
     "available": true,
-    "useForDomains": false,
+    "useForDomains": true,
     "cloudFunctionsEnabled": true,
     "cloudFunctionsInitialized": true
   },
